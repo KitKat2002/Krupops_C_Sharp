@@ -1,0 +1,14 @@
+C:\Users\quirk\source\repos\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.exe
+C:\Users\quirk\source\repos\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.deps.json
+C:\Users\quirk\source\repos\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.runtimeconfig.json
+C:\Users\quirk\source\repos\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.runtimeconfig.dev.json
+C:\Users\quirk\source\repos\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.dll
+C:\Users\quirk\source\repos\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.pdb
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.csproj.AssemblyReference.cache
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.AssemblyInfoInputs.cache
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.AssemblyInfo.cs
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.csproj.CoreCompileInputs.cache
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.dll
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.pdb
+C:\Users\quirk\source\repos\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.genruntimeconfig.cache
