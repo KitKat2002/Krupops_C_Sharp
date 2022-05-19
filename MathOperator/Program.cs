@@ -10,20 +10,20 @@ namespace MathOperator
 
             Console.WriteLine("Person 1:");
             Console.WriteLine("Hourly Work Rate");
-            int per1HRate = Convert.ToInt32 (Console.ReadLine());
+            decimal per1HRate = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Hours worked per week");
-            int per1WRate =  Convert.ToInt32(Console.ReadLine());
+            decimal per1WRate =  Convert.ToDecimal(Console.ReadLine());
 
-            int YtotalOne = per1HRate * per1WRate * 52;
+            decimal YtotalOne = per1HRate * per1WRate * 52;
             Console.WriteLine("Annual Salary of Person 1" + " " + YtotalOne);
 
             Console.WriteLine("Person 2:");
             Console.WriteLine("Hourly Work Rate");
-            int per2HRate = Convert.ToInt32(Console.ReadLine());
+            decimal per2HRate = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Hours worked per week");
-            int per2WRate = Convert.ToInt32(Console.ReadLine());
+            decimal per2WRate = Convert.ToDecimal(Console.ReadLine());
 
-            int YtotalTwo = per2HRate * per2WRate * 52;
+            decimal YtotalTwo = per2HRate * per2WRate * 52;
             Console.WriteLine("Annual salary of Person 2" + " " + YtotalTwo);
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
