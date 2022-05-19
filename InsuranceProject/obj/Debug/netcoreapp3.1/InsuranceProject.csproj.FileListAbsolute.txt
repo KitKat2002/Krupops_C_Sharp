@@ -1,0 +1,14 @@
+C:\Users\quirk\source\repos\InsuranceProject\bin\Debug\netcoreapp3.1\InsuranceProject.exe
+C:\Users\quirk\source\repos\InsuranceProject\bin\Debug\netcoreapp3.1\InsuranceProject.deps.json
+C:\Users\quirk\source\repos\InsuranceProject\bin\Debug\netcoreapp3.1\InsuranceProject.runtimeconfig.json
+C:\Users\quirk\source\repos\InsuranceProject\bin\Debug\netcoreapp3.1\InsuranceProject.runtimeconfig.dev.json
+C:\Users\quirk\source\repos\InsuranceProject\bin\Debug\netcoreapp3.1\InsuranceProject.dll
+C:\Users\quirk\source\repos\InsuranceProject\bin\Debug\netcoreapp3.1\InsuranceProject.pdb
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.csproj.AssemblyReference.cache
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.AssemblyInfoInputs.cache
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.AssemblyInfo.cs
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.csproj.CoreCompileInputs.cache
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.dll
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.pdb
+C:\Users\quirk\source\repos\InsuranceProject\obj\Debug\netcoreapp3.1\InsuranceProject.genruntimeconfig.cache
