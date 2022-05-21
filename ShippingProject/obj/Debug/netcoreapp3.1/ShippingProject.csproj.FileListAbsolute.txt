@@ -1,0 +1,14 @@
+C:\Users\quirk\source\repos\ShippingProject\bin\Debug\netcoreapp3.1\ShippingProject.exe
+C:\Users\quirk\source\repos\ShippingProject\bin\Debug\netcoreapp3.1\ShippingProject.deps.json
+C:\Users\quirk\source\repos\ShippingProject\bin\Debug\netcoreapp3.1\ShippingProject.runtimeconfig.json
+C:\Users\quirk\source\repos\ShippingProject\bin\Debug\netcoreapp3.1\ShippingProject.runtimeconfig.dev.json
+C:\Users\quirk\source\repos\ShippingProject\bin\Debug\netcoreapp3.1\ShippingProject.dll
+C:\Users\quirk\source\repos\ShippingProject\bin\Debug\netcoreapp3.1\ShippingProject.pdb
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.csproj.AssemblyReference.cache
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.AssemblyInfoInputs.cache
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.AssemblyInfo.cs
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.csproj.CoreCompileInputs.cache
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.dll
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.pdb
+C:\Users\quirk\source\repos\ShippingProject\obj\Debug\netcoreapp3.1\ShippingProject.genruntimeconfig.cache
