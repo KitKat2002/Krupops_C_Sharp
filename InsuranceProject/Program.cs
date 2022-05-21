@@ -15,7 +15,7 @@ namespace InsuranceProject
             Console.WriteLine("How many speeding tickets haave you received?");
             int speedTickets = Convert.ToInt32(Console.ReadLine());
 
-            bool applicable = (age >= 15 && DUI == false && (speedTickets == 0));
+            bool applicable = (age >= 15 && DUI == false && (speedTickets <= 0));
             Console.WriteLine("Find your results below");
             Console.WriteLine(applicable);
         }
