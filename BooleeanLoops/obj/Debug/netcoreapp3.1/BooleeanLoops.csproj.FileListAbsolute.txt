@@ -1,0 +1,14 @@
+C:\Users\quirk\source\repos\BooleeanLoops\bin\Debug\netcoreapp3.1\BooleeanLoops.exe
+C:\Users\quirk\source\repos\BooleeanLoops\bin\Debug\netcoreapp3.1\BooleeanLoops.deps.json
+C:\Users\quirk\source\repos\BooleeanLoops\bin\Debug\netcoreapp3.1\BooleeanLoops.runtimeconfig.json
+C:\Users\quirk\source\repos\BooleeanLoops\bin\Debug\netcoreapp3.1\BooleeanLoops.runtimeconfig.dev.json
+C:\Users\quirk\source\repos\BooleeanLoops\bin\Debug\netcoreapp3.1\BooleeanLoops.dll
+C:\Users\quirk\source\repos\BooleeanLoops\bin\Debug\netcoreapp3.1\BooleeanLoops.pdb
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.csproj.AssemblyReference.cache
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.AssemblyInfoInputs.cache
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.AssemblyInfo.cs
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.csproj.CoreCompileInputs.cache
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.dll
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.pdb
+C:\Users\quirk\source\repos\BooleeanLoops\obj\Debug\netcoreapp3.1\BooleeanLoops.genruntimeconfig.cache
