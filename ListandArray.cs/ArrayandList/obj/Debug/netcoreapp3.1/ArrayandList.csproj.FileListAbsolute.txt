@@ -1,0 +1,14 @@
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.csproj.AssemblyReference.cache
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.AssemblyInfoInputs.cache
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.AssemblyInfo.cs
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.csproj.CoreCompileInputs.cache
+C:\Users\quirk\source\repos\ArrayandList\bin\Debug\netcoreapp3.1\ArrayandList.exe
+C:\Users\quirk\source\repos\ArrayandList\bin\Debug\netcoreapp3.1\ArrayandList.deps.json
+C:\Users\quirk\source\repos\ArrayandList\bin\Debug\netcoreapp3.1\ArrayandList.runtimeconfig.json
+C:\Users\quirk\source\repos\ArrayandList\bin\Debug\netcoreapp3.1\ArrayandList.runtimeconfig.dev.json
+C:\Users\quirk\source\repos\ArrayandList\bin\Debug\netcoreapp3.1\ArrayandList.dll
+C:\Users\quirk\source\repos\ArrayandList\bin\Debug\netcoreapp3.1\ArrayandList.pdb
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.dll
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.pdb
+C:\Users\quirk\source\repos\ArrayandList\obj\Debug\netcoreapp3.1\ArrayandList.genruntimeconfig.cache
