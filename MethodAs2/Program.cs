@@ -7,27 +7,29 @@ namespace MethodAs2
         static void Main(string[] args)
         {
             Math problemFunction = new Math();
+
             Console.WriteLine("Please enter a number");
             int numeroUno = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Enter a second optional number");
-            string stringNumber = Console.ReadLine();
-            if (string.IsNullOrEmpty(stringNumber))
-            {
-                stringNumber = "4";
-                int numeroDos = Convert.ToInt32(stringNumber);
+            string secondNumber = Console.ReadLine();
 
-                int answer = problemFunction.problem(numeroUno, numeroDos);
-                Console.WriteLine(numeroUno + numeroDos);
+            if (string.IsNullOrEmpty(secondNumber))
+            {
+                secondNumber = "0";
+                int numeroDos = Convert.ToInt32(secondNumber);
+                int answer = problemFunction.problem(numeroUno + numeroDos);
+
+                Console.WriteLine("Displayed if user did not enter the second number (2 - first number entered");
                 Console.WriteLine(answer);
+           
             } else
-            {
-                numeroUno = Convert.ToInt32(stringNumber);
-                int numeroDos = Convert.ToInt32(stringNumber);
-                int answer = problemFunction.problem(numeroUno, numeroDos);
-                Console.WriteLine(numeroUno + numeroDos);
-                Console.WriteLine(answer);
+            {           
+                int numeroDos = Convert.ToInt32(secondNumber);
+                int answer = problemFunction.problem(numeroUno + numeroDos);
 
-                
+                Console.WriteLine("Displayed if user did enter a second number (2 - first number entered + second number entered)");
+                Console.WriteLine(answer);
             }
         }
     }

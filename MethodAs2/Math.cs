@@ -6,9 +6,9 @@ namespace MethodAs2
 {
   public class Math
     {
-        public int problem(int numeroUno, int numeroDos)
+        public int problem(int numeroUno, int numeroDos = 0)
         {
-            int answer = numeroUno + numeroDos;
+            int answer = 2 - numeroUno + numeroDos;
             return answer;
         }
     }
