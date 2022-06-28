@@ -15,7 +15,7 @@ namespace MainMethod
         public decimal problem(decimal RemNum_A)
         {
             decimal RemNum_B = 3.75m;
-            decimal answer2 = RemNum_A % RemNum_B;
+            decimal answer2 = Convert.ToInt32(RemNum_A % RemNum_B);
             return answer2;
         }
         public int problem(string Conversion)
